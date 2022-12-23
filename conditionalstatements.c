@@ -9,14 +9,14 @@ int main(){
     // }
     // else if (age < 0)
     // {
-    //     printf("ulta paida hua tha??🤨🤨 \n");
+    //     printf("not a valid age. \n");
     // }
     // else if (age > 35 && age < 70){
-    //     printf("Teri jawani ab nahi bachi bhai \n");
+    //     printf("You are no more an adult. \n");
     // }
     // else
     // {
-    //     printf("Bhai tum ab Budhe hogye ho. \n");
+    //     printf("not an adult. \n");
     // }
     
 
