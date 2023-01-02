@@ -10,6 +10,7 @@ void printstar(int k)
     }
     
 }
+//error in starpattern function written below.
 void starpattern(int n)
 {
     for (int i = 0; i < n; i++)
